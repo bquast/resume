@@ -1,6 +1,6 @@
 # Bastiaan Quast PhD
 
-## Machine Learning Engineer & Researcher
+## Machine Learning Engineer
 
 > [bastiaanquast.com](https://bastiaanquast.com) |
 > [bquast@gmail.com](mailto:bquast@gmail.com)
