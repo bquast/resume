@@ -44,7 +44,7 @@ Python/ML inference engineer with deep expertise in model internals (MLX, llama.
 **Geneva, Switzerland**  
 *2013 – 2015*
 - implement Regression Discontinuity Design algorithms in R ([rddtools](https://github.com/bquast/rdtools)), published on CRAN 2014
-- implement Global Value Chain decomposition algorithm in R [decompr](https://github.com/bquast/decompr), published on CRAN 2015
+- implement Global Value Chain decomposition algorithm in R ([decompr](https://github.com/bquast/decompr)), published on CRAN 2015
 
 ### Research Assistant | University of Geneva
 **Geneva, Switzerland**  
